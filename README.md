@@ -5,7 +5,7 @@ Goal of this competition is to detect which species of fish appears on a fishing
 Eight target categories are available in this dataset: Albacore tuna, Bigeye tuna, Yellowfin tuna, Mahi Mahi, Opah, Sharks, Other, and No Fish.
 Each image has only one fish category, except that there are sometimes very small fish in the pictures that are used as bait.
 
-![fish](https://raw.githubusercontent.com/minouminou/kg-fish/master/data/data_desc/species-ref-key.jpg)
+![fish](https://raw.githubusercontent.com/minouminou/kg-fish/master/data/raw/data_desc/species-ref-key.jpg)
 
 ## Description
 DeepMask/SharpMask modified from https://github.com/facebookresearch/deepmask
